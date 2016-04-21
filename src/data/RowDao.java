@@ -1,5 +1,5 @@
 package data;
 
-public interface RequestDao {
+public interface RowDao {
 	public String executeQuery(String str);
 }
